@@ -1,0 +1,153 @@
+2024-07-16 13:26:57,799 : INFO : TestCandidate : Login successful and verified
+2024-07-16 13:26:57,799 : INFO : TestCandidate : Login is successfull
+2024-07-16 13:26:59,236 : INFO : TestCandidate : Recruiment button is clicked
+2024-07-16 13:27:00,566 : INFO : TestCandidate : Candidate buton is clicked
+2024-07-16 13:27:01,946 : INFO : TestCandidate : Vacancy field is filled
+2024-07-16 13:27:02,424 : INFO : TestCandidate : Status field is filled
+2024-07-16 13:27:02,533 : INFO : TestCandidate : search button is clicked
+2024-07-16 13:27:03,110 : INFO : TestCandidate : Successfull search
+2024-07-16 13:27:18,059 : INFO : TestCandidate : Login successful and verified
+2024-07-16 13:27:18,059 : INFO : TestCandidate : Login is successfull
+2024-07-16 13:27:19,510 : INFO : TestCandidate : Recruiment button is clicked
+2024-07-16 13:27:21,666 : INFO : TestCandidate : Candidate buton is clicked
+2024-07-16 13:27:23,186 : INFO : TestCandidate : Delete icon is clicked
+2024-07-16 13:27:23,330 : INFO : TestCandidate : Yes button is clicked
+2024-07-16 13:27:23,797 : INFO : TestCandidate : Successfully deleted
+2024-07-16 13:27:34,412 : INFO : TestLeaveList : Login successful and verified
+2024-07-16 13:27:34,412 : INFO : TestLeaveList : Login is successfull
+2024-07-16 13:27:34,612 : INFO : TestLeaveList : Print total number of people on leave
+2024-07-16 13:27:45,375 : INFO : TestValidAddEmployee : Login successful and verified
+2024-07-16 13:27:45,375 : INFO : TestValidAddEmployee : Login successful and verified
+2024-07-16 13:27:45,375 : INFO : TestValidAddEmployee : Login is successfull
+2024-07-16 13:27:45,375 : INFO : TestValidAddEmployee : Login is successfull
+2024-07-16 13:27:46,538 : INFO : TestValidAddEmployee : PIM button is clicked
+2024-07-16 13:27:46,538 : INFO : TestValidAddEmployee : PIM button is clicked
+2024-07-16 13:27:47,780 : INFO : TestValidAddEmployee : Add employee button is clicked
+2024-07-16 13:27:47,780 : INFO : TestValidAddEmployee : Add employee button is clicked
+2024-07-16 13:27:48,183 : INFO : TestValidAddEmployee : First_name,Middle_name,Last_name,Emp_id is sent to add the employee
+2024-07-16 13:27:48,183 : INFO : TestValidAddEmployee : First_name,Middle_name,Last_name,Emp_id is sent to add the employee
+2024-07-16 13:27:48,753 : INFO : TestValidAddEmployee : Save button is clicked
+2024-07-16 13:27:48,753 : INFO : TestValidAddEmployee : Save button is clicked
+2024-07-16 13:27:48,787 : INFO : TestValidAddEmployee : Unsuccesfull add
+2024-07-16 13:27:48,787 : INFO : TestValidAddEmployee : Unsuccesfull add
+2024-07-16 13:28:03,237 : INFO : TestValidAddEmployee : Login successful and verified
+2024-07-16 13:28:03,237 : INFO : TestValidAddEmployee : Login successful and verified
+2024-07-16 13:28:03,237 : INFO : TestValidAddEmployee : Login is successfull
+2024-07-16 13:28:03,237 : INFO : TestValidAddEmployee : Login is successfull
+2024-07-16 13:28:04,662 : INFO : TestValidAddEmployee : PIM button is clicked
+2024-07-16 13:28:04,662 : INFO : TestValidAddEmployee : PIM button is clicked
+2024-07-16 13:28:05,967 : INFO : TestValidAddEmployee : Add employee button is clicked
+2024-07-16 13:28:05,967 : INFO : TestValidAddEmployee : Add employee button is clicked
+2024-07-16 13:28:05,967 : INFO : TestValidAddEmployee : First_name,Middle_name,Last_name,Emp_id is sent to add the employee
+2024-07-16 13:28:05,967 : INFO : TestValidAddEmployee : First_name,Middle_name,Last_name,Emp_id is sent to add the employee
+2024-07-16 13:28:06,909 : INFO : TestValidAddEmployee : Save button is clicked
+2024-07-16 13:28:06,909 : INFO : TestValidAddEmployee : Save button is clicked
+2024-07-16 13:28:06,955 : INFO : TestValidAddEmployee : Unsuccesfull add
+2024-07-16 13:28:06,955 : INFO : TestValidAddEmployee : Unsuccesfull add
+2024-07-16 13:28:20,206 : INFO : TestValidAddEmployee : Login successful and verified
+2024-07-16 13:28:20,206 : INFO : TestValidAddEmployee : Login successful and verified
+2024-07-16 13:28:20,206 : INFO : TestValidAddEmployee : Login is successfull
+2024-07-16 13:28:20,206 : INFO : TestValidAddEmployee : Login is successfull
+2024-07-16 13:28:21,615 : INFO : TestValidAddEmployee : PIM button is clicked
+2024-07-16 13:28:21,615 : INFO : TestValidAddEmployee : PIM button is clicked
+2024-07-16 13:28:22,748 : INFO : TestValidAddEmployee : Add employee button is clicked
+2024-07-16 13:28:22,748 : INFO : TestValidAddEmployee : Add employee button is clicked
+2024-07-16 13:28:23,144 : INFO : TestValidAddEmployee : First_name,Middle_name,Last_name,Emp_id is sent to add the employee
+2024-07-16 13:28:23,144 : INFO : TestValidAddEmployee : First_name,Middle_name,Last_name,Emp_id is sent to add the employee
+2024-07-16 13:28:23,565 : INFO : TestValidAddEmployee : Save button is clicked
+2024-07-16 13:28:23,565 : INFO : TestValidAddEmployee : Save button is clicked
+2024-07-16 13:28:23,592 : INFO : TestValidAddEmployee : Unsuccesfull add
+2024-07-16 13:28:23,592 : INFO : TestValidAddEmployee : Unsuccesfull add
+2024-07-16 13:28:36,258 : INFO : TestVacancy : Login successful and verified
+2024-07-16 13:28:36,258 : INFO : TestVacancy : Login is successfull
+2024-07-16 13:28:38,089 : INFO : TestVacancy : Recruiment button is clicked
+2024-07-16 13:28:40,627 : INFO : TestVacancy : Vacancies button is clicked
+2024-07-16 13:28:41,874 : INFO : TestVacancy : vacancy field is filled
+2024-07-16 13:28:42,320 : INFO : TestVacancy : Status field is filled
+2024-07-16 13:28:42,387 : INFO : TestVacancy : Search button is clicked
+2024-07-16 13:28:43,371 : INFO : TestVacancy : Successfull search
+2024-07-16 13:28:58,528 : INFO : TestVacancy : Login successful and verified
+2024-07-16 13:28:58,528 : INFO : TestVacancy : Login is successfull
+2024-07-16 13:29:00,064 : INFO : TestVacancy : Recruiment button is clicked
+2024-07-16 13:29:01,751 : INFO : TestVacancy : Vacancies button is clicked
+2024-07-16 13:29:03,123 : INFO : TestVacancy : Delete icon is clicked
+2024-07-16 13:29:03,843 : INFO : TestVacancy : Yes button is clicked
+2024-07-16 13:29:04,780 : INFO : TestVacancy : Successfully deleted
+2024-07-16 13:29:20,693 : INFO : TestVacancy : Login successful and verified
+2024-07-16 13:29:20,693 : INFO : TestVacancy : Login is successfull
+2024-07-16 13:29:22,123 : INFO : TestVacancy : Recruiment button is clicked
+2024-07-16 13:29:23,351 : INFO : TestVacancy : Vacancies button is clicked
+2024-07-16 13:29:24,799 : INFO : TestVacancy : Edit icon is clicked
+2024-07-16 13:29:25,230 : INFO : TestVacancy : Edit is successfully done
+2024-07-16 13:29:35,922 : INFO : TestValidAddEmployee : Login successful and verified
+2024-07-16 13:29:35,922 : INFO : TestValidAddEmployee : Login successful and verified
+2024-07-16 13:29:35,922 : INFO : TestValidAddEmployee : Login is successful
+2024-07-16 13:29:35,922 : INFO : TestValidAddEmployee : Login is successful
+2024-07-16 13:29:37,322 : INFO : TestValidAddEmployee : PIM button is clicked
+2024-07-16 13:29:37,322 : INFO : TestValidAddEmployee : PIM button is clicked
+2024-07-16 13:29:38,671 : INFO : TestValidAddEmployee : Add Employee button is clicked
+2024-07-16 13:29:38,671 : INFO : TestValidAddEmployee : Add Employee button is clicked
+2024-07-16 13:29:39,238 : INFO : TestValidAddEmployee : First_name,Middle_name,Last_name are sent to add value
+2024-07-16 13:29:39,238 : INFO : TestValidAddEmployee : First_name,Middle_name,Last_name are sent to add value
+2024-07-16 13:29:39,429 : INFO : TestValidAddEmployee : Save button is clicked
+2024-07-16 13:29:39,429 : INFO : TestValidAddEmployee : Save button is clicked
+2024-07-16 13:29:39,487 : INFO : TestValidAddEmployee : Successfull added
+2024-07-16 13:29:39,487 : INFO : TestValidAddEmployee : Successfull added
+2024-07-16 13:29:51,497 : INFO : TestLogin : Login successful and verified
+2024-07-16 13:30:02,727 : INFO : TestEmployeeSearch : Login successful and verified
+2024-07-16 13:30:02,727 : INFO : TestEmployeeSearch : Login is successfull
+2024-07-16 13:30:04,256 : INFO : TestEmployeeSearch : PIM button is clicked
+2024-07-16 13:30:05,538 : INFO : TestEmployeeSearch : Employee list button is clicked
+2024-07-16 13:30:05,952 : INFO : TestEmployeeSearch : Employee Id is send
+2024-07-16 13:30:06,056 : INFO : TestEmployeeSearch : Search button is clicked
+2024-07-16 13:30:06,763 : INFO : TestEmployeeSearch : No Records Found is displayed
+2024-07-16 13:30:20,909 : INFO : TestEmployeeSearch : Login successful and verified
+2024-07-16 13:30:20,909 : INFO : TestEmployeeSearch : Login is successfull
+2024-07-16 13:30:22,473 : INFO : TestEmployeeSearch : PIM button is clicked
+2024-07-16 13:30:23,961 : INFO : TestEmployeeSearch : Employee list button is clicked
+2024-07-16 13:30:24,472 : INFO : TestEmployeeSearch : Employee name is send
+2024-07-16 13:30:24,536 : INFO : TestEmployeeSearch : Employee Id issend
+2024-07-16 13:30:24,640 : INFO : TestEmployeeSearch : Search button is clicked
+2024-07-16 13:30:25,127 : INFO : TestEmployeeSearch : Record are found
+2024-07-16 13:30:38,179 : INFO : TestEmployeeSearch : Login successful and verified
+2024-07-16 13:30:38,179 : INFO : TestEmployeeSearch : Login is successfull
+2024-07-16 13:30:43,057 : INFO : TestEmployeeSearch : PIM button is clicked
+2024-07-16 13:30:44,461 : INFO : TestEmployeeSearch : Delete icon is clicked
+2024-07-16 13:30:45,121 : INFO : TestEmployeeSearch : Yes button is clicked
+2024-07-16 13:30:46,063 : INFO : TestEmployeeSearch : Successfully deleted
+2024-07-16 13:31:00,130 : INFO : TestEmployeeSearch : Login successful and verified
+2024-07-16 13:31:00,130 : INFO : TestEmployeeSearch : Login is successfull
+2024-07-16 13:31:01,580 : INFO : TestEmployeeSearch : PIM button is clicked
+2024-07-16 13:31:03,567 : INFO : TestEmployeeSearch : Edit icon is clicked
+2024-07-16 13:31:04,126 : INFO : TestEmployeeSearch : Edit is done successfully
+2024-07-16 13:31:22,297 : INFO : TestQuickLaunch : Login successful and verified
+2024-07-16 13:31:22,297 : INFO : TestQuickLaunch : Login is successfull
+2024-07-16 13:31:23,967 : INFO : TestQuickLaunch : Assign leave button is clicked
+2024-07-16 13:31:24,359 : INFO : TestQuickLaunch : Page navigates successfully
+2024-07-16 13:31:38,502 : INFO : TestQuickLaunch : Login successful and verified
+2024-07-16 13:31:38,502 : INFO : TestQuickLaunch : Login is successfull
+2024-07-16 13:31:40,105 : INFO : TestQuickLaunch : Leave list button is clicked
+2024-07-16 13:31:40,693 : INFO : TestQuickLaunch : Page navigates successfully
+2024-07-16 13:31:51,849 : INFO : TestQuickLaunch : Login successful and verified
+2024-07-16 13:31:51,849 : INFO : TestQuickLaunch : Login is successfull
+2024-07-16 13:31:53,149 : INFO : TestQuickLaunch : Timesheet Page button is clicked
+2024-07-16 13:31:53,654 : INFO : TestQuickLaunch : Page navigates successfully
+2024-07-16 13:32:04,888 : INFO : TestQuickLaunch : Login successful and verified
+2024-07-16 13:32:04,888 : INFO : TestQuickLaunch : Login is successfull
+2024-07-16 13:32:06,599 : INFO : TestQuickLaunch : Apply leave button is clicked
+2024-07-16 13:32:07,169 : INFO : TestQuickLaunch : Page navigates successfully
+2024-07-16 13:32:22,534 : INFO : TestQuickLaunch : Login successful and verified
+2024-07-16 13:32:22,534 : INFO : TestQuickLaunch : Login is successfull
+2024-07-16 13:32:24,173 : INFO : TestQuickLaunch : My leave button is clicked
+2024-07-16 13:32:24,884 : INFO : TestQuickLaunch : Page navigates successfully
+2024-07-16 13:32:37,870 : INFO : TestQuickLaunch : Login successful and verified
+2024-07-16 13:32:37,870 : INFO : TestQuickLaunch : Login is successfull
+2024-07-16 13:32:39,675 : INFO : TestQuickLaunch : My Timesheet button is clicked
+2024-07-16 13:32:40,070 : INFO : TestQuickLaunch : Page navigates successfully
+2024-07-16 13:32:50,845 : INFO : TestReport : Login successful and verified
+2024-07-16 13:32:50,845 : INFO : TestReport : Login is successfull
+2024-07-16 13:32:52,535 : INFO : TestReport : PIM button is clicked
+2024-07-16 13:32:53,602 : INFO : TestReport : report button is clicked
+2024-07-16 13:32:55,289 : INFO : TestReport : report needed to searched is given
+2024-07-16 13:32:55,351 : INFO : TestReport : Report is searched
+2024-07-16 13:32:55,733 : INFO : TestReport : Report is fetched successfully
